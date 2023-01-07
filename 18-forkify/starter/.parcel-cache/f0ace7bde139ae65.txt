@@ -23,7 +23,7 @@
 138C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\dom-iterables.js133146364417661692 0
 135C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\AX.js133145517543552780 0
 133C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\promise\finally.js133146364428323755 0
-95C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist133175624594143519 1
+95C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist133176024640134891 1
 146C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\virtual\trim-left.js133146364453765582 0
 126C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\compressor-raw133145517577900765 1
 135C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\AW.js133145517543486360 0
@@ -96,7 +96,7 @@
 127C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\map\index.js133146364435191921 0
 126C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\domutils\lib\legacy.js133145517537761976 0
 128C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\uid.js133146364454616366 0
-103C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\package.json133146623550016277 0
+103C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\package.json133176024631916389 0
 113C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\picomatch133145520030668380 1
 137C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\docs\040-presets.md133145517548477988 0
 141C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\type-fest\source\set-return-type.d.ts133145517542471274 0
@@ -402,7 +402,7 @@
 125C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\rollup.config.js133145517547352719 0
 136C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\weak-map\index.js133146364436907835 0
 113C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\@trysound133145517528447299 1
-117C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133175624594131232 0
+117C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133176024639742999 0
 137C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\removeHiddenElems.js133145517543665409 0
 149C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\src\public\MutableBundleGraph.js133145517586295874 0
 140C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\css-what\lib\commonjs\index.d.ts.map133145517540119244 0
@@ -608,7 +608,7 @@
 141C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\gamepad.js133145517551278783 0
 126C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\array\at.js133146364413987103 0
 131C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\math\cosh.js133146364416584376 0
-113C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133175624594095457 0
+113C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133176024639682594 0
 148C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133145517546724584 0
 116C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\LICENSE133145517535372081 0
 142C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\@jridgewell\sourcemap-codec\dist\types133145517539150673 1
@@ -2423,7 +2423,7 @@
 137C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\url.js133145517558502617 0
 117C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\index.js133145517546958267 0
 116C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\LICENSE133145517540382615 0
-114C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133175623089012372 0
+114C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133176024639490520 0
 149C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\media-fragments.js133145517554004981 0
 118C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\native.js133145517547043662 0
 116C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\open.js133145517547141457 0
@@ -6574,7 +6574,7 @@
 161C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-font-rendering-controls.js133145517547914196 0
 147C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\input-pattern.js133145517552312842 0
 150C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-font-stretch.js133145517547940075 0
-118C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133175623089074145 0
+118C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133176024639628937 0
 148C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-gencontent.js133145517547950069 0
 152C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-grid-animation.js133145517548001046 0
 157C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-hanging-punctuation.js133145517548046014 0
@@ -7667,11 +7667,11 @@
 119C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\parcel.cmd133145517827166726 0
 113C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\sass133145520039797942 0
 117C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\sass.ps1133145520039797942 0
-116C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133175623089074145 0
-114C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133175623088973650 0
+116C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133176024638990555 0
+114C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133176024640097850 0
 113C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\index.62406edb.js133145520059756943 0
 117C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\index.62406edb.js.map133145520059791494 0
-114C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133175623088968522 0
-106C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\index.html133175623088638284 0
-113C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png133175623088955695 0
+114C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133176024639593652 0
+106C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\index.html133176024640107882 0
+113C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png133176024639774423 0
 119C:\Users\markiian.haihel\source\repos\complete-javascript-course-master\18-forkify\starter\dist\starter.3464ddca.js.map133145520059787268 0
